@@ -1,0 +1,8 @@
+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
+
+
+git config --global --list //complete list
+git config --local --list
+
+git config --global --unset-all user.name
+git config --local --unset-all user.name
